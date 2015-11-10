@@ -1,0 +1,12 @@
+uint16 yan_wu
+uint16 test_man
+uint16 huminity
+uint16 temperature
+uint16 light
+uint16 microphone
+float32 a_f
+float32 b_f
+float32 c_f
+uint16 a_ui
+uint16 b_ui
+uint16 c_ui
